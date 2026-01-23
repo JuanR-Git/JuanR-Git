@@ -56,6 +56,13 @@ I'm a Mechatronics Engineering student who loves building things that bridge the
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### ML & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ### Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -67,30 +74,37 @@ I'm a Mechatronics Engineering student who loves building things that bridge the
 
 ## Achievements
 
-<div align="center">
-
-| Achievement | Description |
-|:-----------:|:------------|
-| **Hack the North 2025 Winner** | 1st place at Canada's biggest hackathon |
-| **ACE Competition - 5th Place** | University of Michigan automotive competition |
-| **2 Years Industry Experience** | Co-op at Accipiter Radar Technologies |
-
-</div>
+```typescript
+const achievements: Achievement[] = [
+  {
+    title: "Hack the North 2025",
+    result: "1st Place",
+    description: "Winner of Canada's biggest hackathon"
+  },
+  {
+    title: "ACE Competition",
+    result: "5th Place",
+    venue: "University of Michigan",
+    description: "Lower Limb Robotic Exoskeleton Competition"
+  }
+];
+```
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanR-Git&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=00000000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanR-Git&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=JuanR-Git&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
 
 </div>
 
+### Contribution Graph
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JuanR-Git&theme=default&hide_border=true&background=00000000)](https://git.io/streak-stats)
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
@@ -98,24 +112,20 @@ I'm a Mechatronics Engineering student who loves building things that bridge the
 
 ## Beyond the Code
 
-When I'm not coding or soldering circuits, you'll find me:
-
-- **Rock Climbing** - Always chasing the next send
-- **Making Music** - Piano, guitar, and drums
-- **Playing Basketball** - Nothing like a good pickup game
+```typescript
+const life: Life = {
+  hobbies: [
+    { name: "Rock Climbing", status: "Always chasing the next send" },
+    { name: "Music", instruments: ["Piano", "Guitar", "Drums"] },
+    { name: "Basketball", status: "Nothing like a good pickup game" }
+  ]
+};
+```
 
 ---
 
 <div align="center">
 
-### Let's Connect
-
-I'm actively seeking **Software Engineering**, **Robotics**, **Controls**, and **Embedded Systems** opportunities for **2026**. Let's build something awesome together.
-
 [![Portfolio](https://img.shields.io/badge/Check_out_my_work-juan--reyes.com-blue?style=for-the-badge)](https://juan-reyes.com)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=JuanR-Git&color=0969da&style=flat-square&label=Profile+Views)
 
 </div>
