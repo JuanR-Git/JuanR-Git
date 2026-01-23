@@ -57,7 +57,6 @@ I'm a Mechatronics Engineering student who loves building things that bridge the
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### ML & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -75,34 +74,37 @@ I'm a Mechatronics Engineering student who loves building things that bridge the
 
 ## Achievements
 
-```python
-achievements = {
-    "hackathons": {
-        "Hack the North 2025": "1st Place - Canada's biggest hackathon",
-    },
-    "competitions": {
-        "ACE @ University of Michigan": "5th Place - Automotive Competition",
-    },
-    "experience": {
-        "Accipiter Radar Technologies": "2 years as Systems Quality Engineer",
-    }
-}
+```typescript
+const achievements: Achievement[] = [
+  {
+    title: "Hack the North 2025",
+    result: "1st Place",
+    description: "Winner of Canada's biggest hackathon"
+  },
+  {
+    title: "ACE Competition",
+    result: "5th Place",
+    venue: "University of Michigan",
+    description: "Lower Limb Robotic Exoskeleton Competition"
+  }
+];
 ```
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanR-Git&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true&bg_color=00000000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanR-Git&layout=compact&theme=default&hide_border=true&bg_color=00000000&langs_count=8"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=JuanR-Git&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
 
 </div>
 
+### Contribution Graph
+
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=JuanR-Git&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
@@ -126,11 +128,15 @@ achievements = {
 
 ## Beyond the Code
 
-When I'm not coding or soldering circuits, you'll find me:
-
-- **Rock Climbing** - Always chasing the next send
-- **Making Music** - Piano, guitar, and drums
-- **Playing Basketball** - Nothing like a good pickup game
+```typescript
+const life: Life = {
+  hobbies: [
+    { name: "Rock Climbing", status: "Always chasing the next send" },
+    { name: "Music", instruments: ["Piano", "Guitar", "Drums"] },
+    { name: "Basketball", status: "Nothing like a good pickup game" }
+  ]
+};
+```
 
 ---
 
