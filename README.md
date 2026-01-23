@@ -108,22 +108,6 @@ const achievements: Achievement[] = [
 
 </div>
 
-### Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanR-Git&theme=github-light&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-### 3D Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
 ---
 
 ## Beyond the Code
