@@ -14,6 +14,8 @@
 
 ## About Me
 
+**I'm a Mechatronics Engineering student who loves building things that bridge the gap between software and hardware. Whether it's writing firmware for embedded systems, developing full-stack web applications, or training ML models — I'm always excited to tackle new challenges.**
+
 ```yaml
 name: Juan Reyes
 location: Ontario, Canada
@@ -32,8 +34,6 @@ experience:
     duration: 2 years
 ```
 
-I'm a Mechatronics Engineering student who loves building things that bridge the gap between software and hardware. Whether it's writing firmware for embedded systems, developing full-stack web applications, or training ML models — I'm always excited to tackle new challenges.
-
 ---
 
 ## Tech Stack
@@ -50,6 +50,7 @@ I'm a Mechatronics Engineering student who loves building things that bridge the
 
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -100,14 +101,6 @@ const achievements: Achievement[] = [
 
 </div>
 
-### Contribution Graph
-
-<div align="center">
-
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-
-</div>
-
 ---
 
 ## Beyond the Code
@@ -121,11 +114,3 @@ const life: Life = {
   ]
 };
 ```
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Check_out_my_work-juan--reyes.com-blue?style=for-the-badge)](https://juan-reyes.com)
-
-</div>
