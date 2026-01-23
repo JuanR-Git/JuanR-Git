@@ -97,7 +97,7 @@ const achievements: Achievement[] = [
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=JuanR-Git&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=JuanR-Git&theme=transparent&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
