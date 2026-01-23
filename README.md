@@ -102,20 +102,25 @@ achievements = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuanR-Git&theme=default&hide_border=true&background=00000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=JuanR-Git&theme=transparent&hide_border=true" alt="GitHub Streak"/></a>
+
+</div>
+
+### Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanR-Git&theme=github-light&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ### 3D Contribution Graph
 
-<div align="center">
-
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
-<!-- 3D graph auto-generates via GitHub Actions - run the workflow manually the first time after pushing! -->
-<!-- Make sure to enable "Read and write permissions" in repo Settings > Actions > General > Workflow permissions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
 
 ---
 
