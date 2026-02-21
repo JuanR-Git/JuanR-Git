@@ -14,7 +14,7 @@
 
 ## About Me
 
-**I'm a Mechatronics Engineering student who loves building things that bridge the gap between software and hardware. Whether it's writing firmware for embedded systems, developing full-stack web applications, or training ML models — I'm always excited to tackle new challenges.**
+**I'm a Mechatronics Engineering Graduate from McMaster University who loves building things that bridge the gap between software and hardware. My current projects lie in robotics control and embeddeed systems design, you can check out their previews on my [portfolio website](https://www.juan-reyes.com/) or look through their repos.** 
 
 ```yaml
 name: Juan Reyes
@@ -26,12 +26,12 @@ education:
 
 current_focus:
   - Seeking Software, Robotics, Controls & Embedded positions
-  - Building full-stack applications and embedded systems
+  - Building full-stack applications, designing robots, and exploring new technologies
 
 experience:
   - role: Systems Quality Engineer (Co-op)
     company: Accipiter Radar Technologies
-    duration: 2 years
+    duration: 16 Months
 ```
 
 ---
@@ -114,15 +114,3 @@ const achievements: Achievement[] = [
 </div>
 
 ---
-
-## Beyond the Code
-
-```typescript
-const life: Life = {
-  hobbies: [
-    { name: "Rock Climbing", status: "Always chasing the next send" },
-    { name: "Music", instruments: ["Piano", "Guitar", "Drums"] },
-    { name: "Basketball", status: "Nothing like a good pickup game" }
-  ]
-};
-```
