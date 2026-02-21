@@ -14,7 +14,7 @@
 
 ## About Me
 
-**I'm a Mechatronics Engineering Graduate from McMaster University who loves building things that bridge the gap between software and hardware. My current projects lie in robotics control and embeddeed systems design, you can check out their previews on my [portfolio website](https://www.juan-reyes.com/) or look through their repos.** 
+**I'm a Mechatronics Engineering Graduate from McMaster University who loves building things that bridge the gap between software and hardware. My current projects lie in robotics control and embeddeed systems design, you can check them out on my [portfolio website](https://www.juan-reyes.com/).** 
 
 ```yaml
 name: Juan Reyes
